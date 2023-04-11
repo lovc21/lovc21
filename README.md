@@ -1,11 +1,11 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovc21)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=lovc21&count_private=true&theme=dracula"
-/>
+<div style="display:flex;">
+  <div style="flex:1;padding-right:10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovc21&theme=dracula&langs_count=5&layout=compact" />
+  </div>
+  <div style="flex:1;padding-left:10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=lovc21&count_private=true&show_icons=true&theme=dracula" />
+  </div>
+</div>
 <!--
 **lovc21/lovc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
