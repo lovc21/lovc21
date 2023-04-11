@@ -1,7 +1,7 @@
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=lovc21&theme=dracula"
+  src="https://github-readme-stats.vercel.app/api/?username=lovc21&count_private=true&theme=dracula"
 />
 <!--
 **lovc21/lovc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
