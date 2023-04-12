@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Jakob</h1>
 <h3 align="center">CS student form Slovenia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat" alt="lovc21" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat" alt="lovc21" /> </p>
 
 </p>
 
