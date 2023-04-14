@@ -14,7 +14,7 @@
 </div>
 
 --- 
-
+<h3 align="left">Spotify:</h3>
 <div style="text-align:center;"  align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile" />
@@ -22,7 +22,7 @@
 </div>
 
 --- 
-
+<h3 align="left">Abute me:</h3>
 <div style="text-align:center;" align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Arila&weight=800&size=30&pause=1000&color=070A5F&multiline=true&width=550&height=250&lines=CS+student+form+Slovenia+(UL+FRI);Amateur+radio+operator(S56LOL);Other+hobbies%3A;+3D+printing%2C;+running+;and+gaming" alt="Typing SVG">
