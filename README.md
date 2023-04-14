@@ -13,7 +13,9 @@
   <img src="https://dcbadge.vercel.app/api/shield/213393526707322880?style=plastic" alt="DCBadge" />
 </div>
 
-<div style="text-align:center;">
+--- 
+
+<div style="text-align:center;"  align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile" />
   </a>
