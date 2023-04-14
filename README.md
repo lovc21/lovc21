@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://tenor.com/sl/view/dinosaur-shades-that-wasnt-cash-money-of-you-gif-16901889" width="100"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Jakob</h1>
