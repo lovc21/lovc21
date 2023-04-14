@@ -4,10 +4,12 @@
 </div>
 
 <h1 align="center"><b>Hi , I'm Jakob </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">CS student form Slovenia</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 </p>
 
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arila&weight=800&size=30&pause=1000&color=070A5F&multiline=true&width=550&height=250&lines=CS+student+form+Slovenia+(UL+FRI);Amateur+radio+operator(S56LOL);other+hobbies%3A;+3D+printing%2C;+running+;and+gaming)](https://git.io/typing-svg)
+</div>
 
 ---
 
