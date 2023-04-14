@@ -3,12 +3,28 @@
   <img src="https://tenor.com/sl/view/dinosaur-shades-that-wasnt-cash-money-of-you-gif-16901889.gif" width="500"/>
 </div>
 
-<h1 align="center"><b>Hi , I'm Jakob </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-</p>
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arila&weight=800&size=30&pause=1000&color=070A5F&multiline=true&width=550&height=250&lines=CS+student+form+Slovenia+(UL+FRI);Amateur+radio+operator(S56LOL);other+hobbies%3A;+3D+printing%2C;+running+;and+gaming)](https://git.io/typing-svg)
+<div style="text-align:center;"align="center">
+  <h1><b>Hi , I'm Jakob </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</div>
+<div style="text-align:center;"align="center">
+  <img src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
+  
+</div>
+
+![](https://dcbadge.vercel.app/api/shield/213393526707322880?style=plastic)
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
+  <img src="https://dcbadge.vercel.app/api/shield/213393526707322880?style=plastic" alt="DCBadge" />
+</div>
+
+--- 
+
+<div style="text-align:center;" align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Arila&weight=800&size=30&pause=1000&color=070A5F&multiline=true&width=550&height=250&lines=CS+student+form+Slovenia+(UL+FRI);Amateur+radio+operator(S56LOL);Other+hobbies%3A;+3D+printing%2C;+running+;and+gaming" alt="Typing SVG">
+  </a>
 </div>
 
 ---
