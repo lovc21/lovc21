@@ -3,9 +3,9 @@
   <img src="https://tenor.com/sl/view/dinosaur-shades-that-wasnt-cash-money-of-you-gif-16901889.gif" width="500"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Jakob</h1>
+<h1 align="center"><b>Hi , I'm Jakob </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">CS student form Slovenia</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 </p>
 
 
