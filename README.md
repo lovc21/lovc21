@@ -16,9 +16,7 @@
 --- 
 <h3 align="left">Abute me:</h3>
 <div style="text-align:center;" align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arila&weight=800&size=30&pause=1000&color=070A5F&multiline=true&width=550&height=250&lines=CS+student+form+Slovenia+(UL+FRI);Amateur+radio+operator(S56LOL);Other+hobbies%3A;+3D+printing%2C;+running+;and+gaming" alt="Typing SVG">
-  </a>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=18F2F7&random=false&width=435&lines=Software+Engineering+student+FRI+UL;DevOps%2C+backend+development;System+administration%2C+and+security)](https://git.io/typing-svg)
 </div>
 
 ---
