@@ -12,6 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
   <img src="https://dcbadge.vercel.app/api/shield/213393526707322880?style=plastic" alt="DCBadge" />
 </div>
+![Static Badge](https://img.shields.io/badge/Linux-OS?style=flat&logo=linux&logoColor=white&label=OS&color=F0B90D&link=https%3A%2F%2Fwww.linux.org%2F)
 
 --- 
 <h3 align="left">Abute me:</h3>
