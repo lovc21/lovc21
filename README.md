@@ -14,6 +14,8 @@
 </div>
 
 [![](https://img.shields.io/badge/Linux-OS?style=flat&logo=linux&logoColor=white&label=OS&color=F0B90D&link=https%3A%2F%2Fwww.linux.org%2F)](https://www.linux.org/)
+[![](https://img.shields.io/badge/Distor-OS?style=flat&logo=Fedora&logoColor=white&label=Fedora&color=3c6eb4)](https://fedoraproject.org/)
+[![](https://img.shields.io/badge/Jakob-OS?style=flat&logo=Linkedin&logoColor=white&label=Linkedin&color=0a66c2)](https://www.linkedin.com/in/jakob-dekleva1999/)
 
 --- 
 <h3 align="left">Abute me:</h3>
