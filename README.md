@@ -13,9 +13,21 @@
   <img src="https://dcbadge.vercel.app/api/shield/213393526707322880?style=plastic" alt="DCBadge" />
 </div>
 
-[![](https://img.shields.io/badge/Linux-OS?style=flat&logo=linux&logoColor=white&label=OS&color=F0B90D&link=https%3A%2F%2Fwww.linux.org%2F)](https://www.linux.org/)
-[![](https://img.shields.io/badge/Distor-OS?style=flat&logo=Fedora&logoColor=white&label=Fedora&color=3c6eb4)](https://fedoraproject.org/)
-[![](https://img.shields.io/badge/Jakob-OS?style=flat&logo=Linkedin&logoColor=white&label=Linkedin&color=0a66c2)](https://www.linkedin.com/in/jakob-dekleva1999/)
+
+<p align="center">
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-OS?style=flat&logo=linux&logoColor=white&label=OS&color=F0B90D" alt="Linux">
+  </a>
+  <a href="https://fedoraproject.org/">
+    <img src="https://img.shields.io/badge/Distro-OS?style=flat&logo=Fedora&logoColor=white&label=Fedora&color=3c6eb4" alt="Fedora">
+  </a>
+  <a href="https://www.linkedin.com/in/jakob-dekleva1999/">
+    <img src="https://img.shields.io/badge/Jakob-OS?style=flat&logo=Linkedin&logoColor=white&label=Linkedin&color=0a66c2" alt="Linkedin">
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/Onlyfans-OS?style=flat&logo=Onlyfans&logoColor=white&label=My&color=00AFF0" alt="Onlyfans">
+  </a>
+</p>
 
 --- 
 <h3 align="left">Abute me:</h3>
