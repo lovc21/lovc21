@@ -13,7 +13,7 @@
   <img src="https://dcbadge.vercel.app/api/shield/213393526707322880?style=plastic" alt="DCBadge" />
 </div>
 
-https://img.shields.io/badge/Linux-OS?style=flat&logo=linux&logoColor=white&label=OS&color=F0B90D&link=https%3A%2F%2Fwww.linux.org%2F
+[![](https://img.shields.io/badge/Linux-OS?style=flat&logo=linux&logoColor=white&label=OS&color=F0B90D&link=https%3A%2F%2Fwww.linux.org%2F)](https://www.linux.org/)
 
 --- 
 <h3 align="left">Abute me:</h3>
