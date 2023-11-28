@@ -14,7 +14,7 @@
 </div>
 
 
-<p align="center">
+<div style="text-align:center;"align="center">
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-OS?style=flat&logo=linux&logoColor=white&label=OS&color=F0B90D" alt="Linux">
   </a>
@@ -27,7 +27,7 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://img.shields.io/badge/Onlyfans-OS?style=flat&logo=Onlyfans&logoColor=white&label=My&color=00AFF0" alt="Onlyfans">
   </a>
-</p>
+</div>
 
 --- 
 <h3 align="left">Abute me:</h3>
