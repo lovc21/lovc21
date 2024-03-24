@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://tenor.com/sl/view/dinosaur-shades-that-wasnt-cash-money-of-you-gif-16901889.gif" width="500"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/069/324/424/original/k-s-o-m-u-art-cashmoneygojirav1c.gif?1699882361" width="500"/>
 </div>
 
 
