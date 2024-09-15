@@ -4,7 +4,7 @@
 </div>
 
 
-<div style="text-align:center;"align="center">
+<div style="text-align:center;"align="center";" >
   <h1><b>Hi , I'm Jakob </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
@@ -40,7 +40,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,git,postgres,kubernetes,docker,linux,bash,go,py,julia,nextjs,neovim" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws,prometheus,postgres,kubernetes,docker,linux,terraform,bash,go,py,julia,nextjs,neovim" />
   </a>
 </p>
 
