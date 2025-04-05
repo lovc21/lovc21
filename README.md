@@ -28,16 +28,12 @@
 </div>
 
 ---
-<div style="text-align: center;"align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C13F7&width=435&lines=Hello%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%2C+welcome+to+my+page!;Hope+you+enjoy+your+stay;Just+a+bit+about+me;I'm+just+a+chill+guy+trying+to+build+some+cool+software+and+have+fun+along+the+way." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C13F7&width=435&lines=Hello%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%2C+welcome+to+my+page!;Hope+you+enjoy+your+stay;Just+a+bit+about+me;I'm+just+a+chill+guy+trying+to+build+some+cool+software+and+have+fun+along+the+way." alt="Typing SVG">
   </a>
 </div>
-
----
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="images/github-user-contribution.svg" />
 </picture>
 
@@ -123,6 +119,9 @@ hobbies: [backpacking,3d printing,running,gym]
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovc21&theme=dark" alt="lovc21" /></p>
 
 ---
+<h3 align="left">Memes:</h3>
+<p align="center">
+<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>
 
 <!--
 **lovc21/lovc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
