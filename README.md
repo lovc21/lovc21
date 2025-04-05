@@ -3,7 +3,6 @@
   <img src="https://cdna.artstation.com/p/assets/images/images/069/324/424/original/k-s-o-m-u-art-cashmoneygojirav1c.gif?1699882361" width="500"/>
 </div>
 
-
 <div style="text-align:center;"align="center";" >
   <h1><b>Hi , I'm Jakob </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
@@ -12,7 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
   <img src="https://dcbadge.vercel.app/api/shield/213393526707322880?style=plastic" alt="DCBadge" />
 </div>
-
 
 <div style="text-align:center;"align="center">
   <a href="https://www.linux.org/">
@@ -29,11 +27,88 @@
   </a>
 </div>
 
---- 
-<h3 align="left">About me:</h3>
+---
 <div style="text-align:center;" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=18F2F7&random=false&width=435&lines=Software+Engineering+student+FRI+UL;DevOps+and+backend+development;System+administration+and+security" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C13F7&width=435&lines=Hello%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%2C+welcome+to+my+page!;Hope+you+enjoy+your+stay;Just+a+bit+about+me;I'm+just+a+chill+guy+trying+to+build+some+cool+software+and+have+fun+along+the+way." alt="Typing SVG" /></a>" alt="Typing SVG" /></a>
 </div>
+
+---
+<h3 align="left">About me:</h3>
+```yaml
+name: Jakob Dekleva
+avatar: |
+@@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+%%@@@@@@@@@@@@@#%%#%#######@@@@@@@@@@@@@@@@@@@@@@@
+#%%%%%%%@@@@@%######%########@@@@@@@@@@@@@@@@@@@@@
+########%@@%#%##%##%######%#%##@@@@@@@@@@@@@@@@@@@
+******##@###%###########%##%###%@@@@%%%%%%%%%%%%%%
++++***%@@#@########%###@%######%#@@@@%@@%%########
+====+*@@##@%#%@-   @@@############@@@@@#######*@@@
++=++++ * **%@ *    @@###%##########@@@@@**+@@@@@@@
+=====+* ** #@*    *%@###%###########%@@@-@@@@@@@@@
+-=====#** @#%#%@@##%################%#@@@@@@@@@@@@
+=====%@%###%###@#######%###%###########@@@@@@@@@@@
+====@@@####@###%########################@@@@@@@@@@
+===+%#*##@##%###%#####%+@#############%###%@@@@@@@
+===@%%%############%= #####%#######%###%####@@@@@@
+=++*%%%#%#**#**%%=+-#####@@#####%###########%%@@@@
+======%@ :*=:-  @#####@@@%#################%#@##@@
+=======%%#########@@@@%######%##%%#%#####%#%####*@
++++++++++*+*++++@@@@@@@@@@############%%%%#%#*#*##
+=====+++++++++++*@@@@@@%#%#######%%##########%*#%#
+=================@@@@@@%##%#%#########%#######%%##
+
+located: Ljubljana, Slovenia
+education:
+
+- degree: "Master’s Degree in Computer and Information Science"
+    institution: "University of Ljubljana, Faculty of Computer and Information Science"
+    years: "2022-2025"
+    city: "Ljubljana"
+- degree: "Bachelor’s Degree in Electrical Engineering"
+    institution: "University of Ljubljana, Faculty of Electrical Engineering"
+    years: "2018-2022"
+    city: "Ljubljana"
+past experiences:
+- ["Site Reliability Engineer", "Kubernetes optimization, multi-region deployment, CI/CD, security", "DevRev", "Ljubljana, Slovenia", "Dec 2023 - Feb 2025"]
+- ["Software Engineer", "CERN OpenLab, Prometheus, performance testing", "Comtrade 360", "Ljubljana, Slovenia", "Jul 2022 - Jul 2023"]
+- ["Network Engineer and Systems Administrator", "Mellanox switch configuration via SDN and refurbishment of legacy infrastructure", "ARNES", "Ljubljana, Slovenia", "Mar 2021 - Oct 2021"]
+fields_of_interests:
+- "DevOps"
+- "Backend Development"
+- "System Administration"
+- "Security"
+- "Chess programming"
+technical_background:
+  programming_languages:
+  - "Python"
+  - "Go"
+  - "Bash"
+  - "Terraform"
+  - "Julia"
+  - "Zig"
+  databases:
+  - "Redis"
+  - "Postgres"
+  - "MongoDB"
+  tools:
+  - "AWS"
+  - "GCP"
+  - "Kubernetes"
+  - "Docker"
+  - "GitHub Actions"
+  - "CircleCI"
+  - "Jenkins"
+  - "ArgoCD"
+  - "Linux"
+  - "Nvim"
+  - "Prometheus"
+  - "Grafana"
+  - "Datadog"
+currently_learning: [Zig,Chess programming,homelab stuff]
+hobbies: [backpacking,3d printing,running,gym]
+
+```
 
 ---
 
