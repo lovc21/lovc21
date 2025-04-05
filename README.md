@@ -28,7 +28,7 @@
 </div>
 
 ---
-<div style="text-align: center;">
+<div style="text-align: center;"align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C13F7&width=435&lines=Hello%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%2C+welcome+to+my+page!;Hope+you+enjoy+your+stay;Just+a+bit+about+me;I'm+just+a+chill+guy+trying+to+build+some+cool+software+and+have+fun+along+the+way." alt="Typing SVG" />
   </a>
@@ -36,6 +36,7 @@
 
 ---
 <h3 align="left">About me:</h3>
+
 ```yaml
 name: Jakob Dekleva
 located: Ljubljana, Slovenia
@@ -99,7 +100,7 @@ hobbies: [backpacking,3d printing,running,gym]
   </a>
 </p>
 
---- 
+---
 <h3 align="left">Spotify:</h3>
 
 <p align="center">
@@ -108,8 +109,7 @@ hobbies: [backpacking,3d printing,running,gym]
   </a>
 </p>
 
-
---- 
+---
 <h3 align="left">My stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lovc21&show_icons=true&locale=en&layout=compact&theme=dark" alt="lovc21" /></p>
 
