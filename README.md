@@ -35,6 +35,30 @@
 </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="images/github-user-contribution.svg" />
+</picture>
+
+---
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,prometheus,postgres,kubernetes,docker,linux,terraform,bash,go,py,julia,nextjs,neovim" />
+  </a>
+</p>
+
+---
+<h3 align="left">Spotify:</h3>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
 <h3 align="left">About me:</h3>
 
 ```yaml
@@ -89,24 +113,6 @@ currently_learning: [Zig,Chess programming,homelab stuff]
 hobbies: [backpacking,3d printing,running,gym]
 
 ```
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,prometheus,postgres,kubernetes,docker,linux,terraform,bash,go,py,julia,nextjs,neovim" />
-  </a>
-</p>
-
----
-<h3 align="left">Spotify:</h3>
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
 
 ---
 <h3 align="left">My stats:</h3>
