@@ -41,7 +41,6 @@
 name: Jakob Dekleva
 located: Ljubljana, Slovenia
 education:
-
 - degree: "Master’s Degree in Computer and Information Science"
     institution: "University of Ljubljana, Faculty of Computer and Information Science"
     years: "2022-2025"
