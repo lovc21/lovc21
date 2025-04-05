@@ -28,36 +28,16 @@
 </div>
 
 ---
-<div style="text-align:center;" align="center">
-  <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C13F7&width=435&lines=Hello%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%2C+welcome+to+my+page!;Hope+you+enjoy+your+stay;Just+a+bit+about+me;I'm+just+a+chill+guy+trying+to+build+some+cool+software+and+have+fun+along+the+way." alt="Typing SVG" /></a>" alt="Typing SVG" /></a>
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C13F7&width=435&lines=Hello%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%2C+welcome+to+my+page!;Hope+you+enjoy+your+stay;Just+a+bit+about+me;I'm+just+a+chill+guy+trying+to+build+some+cool+software+and+have+fun+along+the+way." alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 <h3 align="left">About me:</h3>
 ```yaml
 name: Jakob Dekleva
-avatar: |
-@@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-%%@@@@@@@@@@@@@#%%#%#######@@@@@@@@@@@@@@@@@@@@@@@
-#%%%%%%%@@@@@%######%########@@@@@@@@@@@@@@@@@@@@@
-########%@@%#%##%##%######%#%##@@@@@@@@@@@@@@@@@@@
-******##@###%###########%##%###%@@@@%%%%%%%%%%%%%%
-+++***%@@#@########%###@%######%#@@@@%@@%%########
-====+*@@##@%#%@-   @@@############@@@@@#######*@@@
-+=++++ * **%@ *    @@###%##########@@@@@**+@@@@@@@
-=====+* ** #@*    *%@###%###########%@@@-@@@@@@@@@
--=====#** @#%#%@@##%################%#@@@@@@@@@@@@
-=====%@%###%###@#######%###%###########@@@@@@@@@@@
-====@@@####@###%########################@@@@@@@@@@
-===+%#*##@##%###%#####%+@#############%###%@@@@@@@
-===@%%%############%= #####%#######%###%####@@@@@@
-=++*%%%#%#**#**%%=+-#####@@#####%###########%%@@@@
-======%@ :*=:-  @#####@@@%#################%#@##@@
-=======%%#########@@@@%######%##%%#%#####%#%####*@
-+++++++++*+*++++@@@@@@@@@@############%%%%#%#*#*##
-=====+++++++++++*@@@@@@%#%#######%%##########%*#%#
-=================@@@@@@%##%#%#########%#######%%##
-
 located: Ljubljana, Slovenia
 education:
 
