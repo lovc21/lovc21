@@ -41,7 +41,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,prometheus,postgres,kubernetes,docker,linux,ubuntu,terraform,bash,go,py,julia,zig,nextjs,neovim" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws,prometheus,postgres,kubernetes,docker,linux,terraform,bash,go,py,julia,zig,nextjs,neovim" />
   </a>
 </p>
 
