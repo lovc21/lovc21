@@ -41,7 +41,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,prometheus,postgres,kubernetes,docker,linux,terraform,bash,go,py,julia,zig,nextjs,neovim" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws,prometheus,postgres,kubernetes,docker,linux,terraform,bash,go,py,julia,nextjs,neovim" />
   </a>
 </p>
 
@@ -51,6 +51,9 @@
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=22o4dahf3bscqdol5ora2socq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22o4dahf3bscqdol5ora2socq" alt="Spotify Recently Played" />
   </a>
 </p>
 
