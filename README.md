@@ -61,7 +61,6 @@
 <b>⚡What I'm up to</b>
 <p>
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 </p>
 

@@ -1,19 +1,29 @@
-name: Recent Activity
+name: Update README with Recent Activity
+
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '0 0 * * *'
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    - cron: "*/30 * * * *"
 
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Update Recent Activity Section
+        uses: jamesgeorge007/github-activity-readme@master
         env:
-          GH_USERNAME: 'lovc21'
+          GH_USERNAME: lovc21
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MSG: ':Activity_BOT: Updates recent activity in README'
         with:
           MAX_LINES: 10
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          COMMIT_MSG: "⚡ Update README with recent activity"
+          EMPTY_COMMIT_MSG: "📝 No new activity—keeping workflow alive"
+          TARGET_FILE: README.md
