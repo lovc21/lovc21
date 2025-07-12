@@ -61,6 +61,13 @@
 <b>⚡What I'm up to</b>
 <p>
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/lovc21/go-flare/pull/1) in [lovc21/go-flare](https://github.com/lovc21/go-flare)
+2. 🎉 Merged PR [#4](https://github.com/lovc21/NeuroSpeed/pull/4) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+3. 💪 Opened PR [#4](https://github.com/lovc21/NeuroSpeed/pull/4) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+4. 🎉 Merged PR [#3](https://github.com/lovc21/NeuroSpeed/pull/3) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+5. 💪 Opened PR [#3](https://github.com/lovc21/NeuroSpeed/pull/3) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+6. 🎉 Merged PR [#2](https://github.com/lovc21/NeuroSpeed/pull/2) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+7. 💪 Opened PR [#2](https://github.com/lovc21/NeuroSpeed/pull/2) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 <!--END_SECTION:activity-->
 </p>
 
