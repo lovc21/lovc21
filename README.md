@@ -1,41 +1,66 @@
 
 <div id="header" align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/069/324/424/original/k-s-o-m-u-art-cashmoneygojirav1c.gif?1699882361" width="500"/>
+  <img
+    src="https://cdna.artstation.com/p/assets/images/images/069/324/424/original/k-s-o-m-u-art-cashmoneygojirav1c.gif?1699882361"
+    width="500"
+  />
 </div>
 
-<div style="text-align:center;"align="center";" >
-  <h1><b>Hi , I'm Jakob </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <!-- Profile views & badges -->
+  <img
+    src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+  <img
+    src="https://dcbadge.vercel.app/api/shield/213393526707322880?style=plastic"
+    alt="Discord badge"
+  />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;" align="center">
-  <img src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
-  <img src="https://dcbadge.vercel.app/api/shield/213393526707322880?style=plastic" alt="DCBadge" />
-</div>
-
-<div style="text-align:center;"align="center">
+<div align="center">
+  <!-- OS / Distro / LinkedIn / OnlyFans badges -->
   <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-OS?style=flat&logo=linux&logoColor=white&label=OS&color=F0B90D" alt="Linux">
+    <img
+      src="https://img.shields.io/badge/Linux-OS?style=flat&logo=linux&logoColor=white&label=OS&color=F0B90D"
+      alt="Linux"
+    />
   </a>
   <a href="https://fedoraproject.org/">
-    <img src="https://img.shields.io/badge/Distro-OS?style=flat&logo=Fedora&logoColor=white&label=Fedora&color=3c6eb4" alt="Fedora">
+    <img
+      src="https://img.shields.io/badge/Distro-Fedora?style=flat&logo=fedora&logoColor=white&label=Fedora&color=3c6eb4"
+      alt="Fedora"
+    />
   </a>
   <a href="https://www.linkedin.com/in/jakob-dekleva1999/">
-    <img src="https://img.shields.io/badge/Jakob-OS?style=flat&logo=Linkedin&logoColor=white&label=Linkedin&color=0a66c2" alt="Linkedin">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Jakob?style=flat&logo=linkedin&logoColor=white&label=LinkedIn&color=0a66c2"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/Onlyfans-OS?style=flat&logo=Onlyfans&logoColor=white&label=My&color=00AFF0" alt="Onlyfans">
+    <img
+      src="https://img.shields.io/badge/Onlyfans-My?style=flat&logo=onlyfans&logoColor=white&label=Onlyfans&color=00AFF0"
+      alt="Onlyfans"
+    />
   </a>
 </div>
 
 ---
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=1C13F7&center=true&width=700&lines=👋+Hello,+I%27m+Jakob!;🎉+Welcome+to+my+GitHub;💻+Building+cool+software;🚀+Let%27s+learn+together;📝+I+use+Neovim+btw"
+    alt="Typing SVG"
+  />
+</p>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C13F7&width=435&lines=Hello%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%2C+welcome+to+my+page!;Hope+you+enjoy+your+stay;Just+a+bit+about+me;I'm+just+a+chill+guy+trying+to+build+some+cool+software+and+have+fun+along+the+way." alt="Typing SVG" />
-  </a>
+  <img
+    alt="github-snake"
+    src="images/github-user-contribution.svg"
+  />
 </div>
-<picture>
-  <img alt="github-snake" src="images/github-user-contribution.svg" />
-</picture>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
