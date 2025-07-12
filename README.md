@@ -47,13 +47,12 @@
 </div>
 
 ---
-
-<p align="center">
+<h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=1C13F7&center=true&width=700&lines=👋+Hello,+I%27m+Jakob!;🎉+Welcome+to+my+GitHub;💻+Building+cool+software;🚀+Let%27s+learn+together;📝+I+use+Neovim+btw"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=32&duration=2000&pause=1000&color=1C13F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=👋+Hello,+I%27m+Jakob!;🎉+Welcome+to+my+GitHub;💻+Building+cool+software;📝+I+use+Neovim+btw"
     alt="Typing SVG"
   />
-</p>
+</h1>
 
 <div align="center">
   <img
