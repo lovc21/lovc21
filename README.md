@@ -58,68 +58,85 @@
 </p>
 
 ---
-<h3 align="left">About me:</h3>
+<b>⚡What I'm up to</b>
+<p>
+<!--START_SECTION:activity-->
 
-```yaml
-name: Jakob Dekleva
-located: Ljubljana, Slovenia
-education:
-- degree: "Master’s Degree in Computer and Information Science"
-    institution: "University of Ljubljana, Faculty of Computer and Information Science"
-    years: "2022-2025"
-    city: "Ljubljana"
-- degree: "Bachelor’s Degree in Electrical Engineering"
-    institution: "University of Ljubljana, Faculty of Electrical Engineering"
-    years: "2018-2022"
-    city: "Ljubljana"
-past experiences:
-- ["Site Reliability Engineer", "Kubernetes optimization, multi-region deployment, CI/CD, security", "DevRev", "Ljubljana, Slovenia", "Dec 2023 - Feb 2025"]
-- ["Software Engineer", "CERN OpenLab, Prometheus, performance testing", "Comtrade 360", "Ljubljana, Slovenia", "Jul 2022 - Jul 2023"]
-- ["Network Engineer and Systems Administrator", "Mellanox switch configuration via SDN and refurbishment of legacy infrastructure", "ARNES", "Ljubljana, Slovenia", "Mar 2021 - Oct 2021"]
-fields_of_interests:
-- "DevOps"
-- "Backend Development"
-- "System Administration"
-- "Security"
-- "Chess programming"
-technical_background:
-  programming_languages:
-  - "Python"
-  - "Go"
-  - "Bash"
-  - "Terraform"
-  - "Julia"
-  - "Zig"
-  databases:
-  - "Redis"
-  - "Postgres"
-  - "MongoDB"
-  tools:
-  - "AWS"
-  - "GCP"
-  - "Kubernetes"
-  - "Docker"
-  - "GitHub Actions"
-  - "CircleCI"
-  - "Jenkins"
-  - "ArgoCD"
-  - "Linux"
-  - "Nvim"
-  - "Prometheus"
-  - "Grafana"
-  - "Datadog"
-currently_learning: [Zig,Chess programming,homelab stuff]
-hobbies: [backpacking,3d printing,running,gym]
-
-```
+<!--END_SECTION:activity-->
+</p>
 
 ---
+<details>
+  <summary><b>About me 🙋‍♂️</b></summary>
+
+  <h3 align="left">About me:</h3>
+
+  ```yaml
+  name: Jakob Dekleva
+  located: Ljubljana, Slovenia
+  education:
+  - degree: "Master’s Degree in Computer and Information Science"
+      institution: "University of Ljubljana, Faculty of Computer and Information Science"
+      years: "2022-2025"
+      city: "Ljubljana"
+  - degree: "Bachelor’s Degree in Electrical Engineering"
+      institution: "University of Ljubljana, Faculty of Electrical Engineering"
+      years: "2018-2022"
+      city: "Ljubljana"
+  past experiences:
+  - ["Site Reliability Engineer", "Kubernetes optimization, multi-region deployment, CI/CD, security", "DevRev", "Ljubljana, Slovenia", "Dec 2023 - Feb 2025"]
+  - ["Software Engineer", "CERN OpenLab, Prometheus, performance testing", "Comtrade 360", "Ljubljana, Slovenia", "Jul 2022 - Jul 2023"]
+  - ["Network Engineer and Systems Administrator", "Mellanox switch configuration via SDN and refurbishment of legacy infrastructure", "ARNES", "Ljubljana, Slovenia", "Mar 2021 - Oct 2021"]
+  fields_of_interests:
+  - "DevOps"
+  - "Backend Development"
+  - "System Administration"
+  - "Security"
+  - "Chess programming"
+  technical_background:
+    programming_languages:
+    - "Python"
+    - "Go"
+    - "Bash"
+    - "Terraform"
+    - "Julia"
+    - "Zig"
+    databases:
+    - "Redis"
+    - "Postgres"
+    - "MongoDB"
+    tools:
+    - "AWS"
+    - "GCP"
+    - "Kubernetes"
+    - "Docker"
+    - "GitHub Actions"
+    - "CircleCI"
+    - "Jenkins"
+    - "ArgoCD"
+    - "Linux"
+    - "Nvim"
+    - "Prometheus"
+    - "Grafana"
+    - "Datadog"
+  currently_learning: [Zig,Chess programming,homelab stuff]
+  hobbies: [backpacking,3d printing,running,gym]
+
+  ```
+
+</details>
+
+---
+<details>
+  <summary><b> My stats and metrics 📊 </b></summary>
 <h3 align="left">My stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lovc21&show_icons=true&locale=en&layout=compact&theme=dark" alt="lovc21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lovc21&show_icons=true&locale=en&theme=dark" alt="lovc21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovc21&theme=dark" alt="lovc21" /></p>
+
+</details>
 
 ---
 <h3 align="left">Memes:</h3>
