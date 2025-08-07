@@ -86,10 +86,10 @@
   <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/lovc21/NeuroSpeed/pull/5) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
-2. 💪 Opened PR [#5](https://github.com/lovc21/NeuroSpeed/pull/5) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
-3. ❗ Opened issue [#3](https://github.com/xBlaz3kx/website/issues/3) in [xBlaz3kx/website](https://github.com/xBlaz3kx/website)
-4. 💪 Opened PR [#199](https://github.com/zig-community/user-map/pull/199) in [zig-community/user-map](https://github.com/zig-community/user-map)
+1. 💪 Opened PR [#5](undefined) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+2. ❗ Opened issue [#3](https://github.com/xBlaz3kx/website/issues/3) in [xBlaz3kx/website](https://github.com/xBlaz3kx/website)
+3. 💪 Opened PR [#199](undefined) in [zig-community/user-map](https://github.com/zig-community/user-map)
+4. ❌ Closed PR [#1](undefined) in [lovc21/go-flare](https://github.com/lovc21/go-flare)
 5. ❌ Closed PR [#1](https://github.com/lovc21/go-flare/pull/1) in [lovc21/go-flare](https://github.com/lovc21/go-flare)
 6. 🎉 Merged PR [#3](https://github.com/lovc21/NeuroSpeed/pull/3) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 7. 🎉 Merged PR [#2](https://github.com/lovc21/NeuroSpeed/pull/2) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
