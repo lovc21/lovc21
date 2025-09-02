@@ -86,11 +86,11 @@
   <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/lovc21/NeuroSpeed/pull/6) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
-2. 🎉 Merged PR [#5](https://github.com/lovc21/NeuroSpeed/pull/5) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
-3. 💪 Opened PR [#5](https://github.com/lovc21/NeuroSpeed/pull/5) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
-4. ❗ Opened issue [#3](https://github.com/xBlaz3kx/website/issues/3) in [xBlaz3kx/website](https://github.com/xBlaz3kx/website)
-5. ❌ Closed PR [#1](https://github.com/lovc21/go-flare/pull/1) in [lovc21/go-flare](https://github.com/lovc21/go-flare)
+1. 🗣 Commented on [#3](https://github.com/lovc21/cv/pull/3#issuecomment-3245187513) in [lovc21/cv](https://github.com/lovc21/cv)
+2. 🎉 Merged PR [#3](https://github.com/lovc21/cv/pull/3) in [lovc21/cv](https://github.com/lovc21/cv)
+3. 💪 Opened PR [#6](https://github.com/lovc21/NeuroSpeed/pull/6) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+4. 🎉 Merged PR [#5](https://github.com/lovc21/NeuroSpeed/pull/5) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+5. 💪 Opened PR [#5](https://github.com/lovc21/NeuroSpeed/pull/5) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 6. 🎉 Merged PR [#3](https://github.com/lovc21/NeuroSpeed/pull/3) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 7. 🎉 Merged PR [#2](https://github.com/lovc21/NeuroSpeed/pull/2) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 <!--END_SECTION:activity-->
