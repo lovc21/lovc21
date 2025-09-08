@@ -87,7 +87,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/lovc21/cv/pull/3#issuecomment-3245187513) in [lovc21/cv](https://github.com/lovc21/cv)
-2. 🎉 Merged PR [#3](https://github.com/lovc21/cv/pull/3) in [lovc21/cv](https://github.com/lovc21/cv)
+2. 💪 Opened PR [#6](undefined) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 3. 💪 Opened PR [#6](https://github.com/lovc21/NeuroSpeed/pull/6) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 4. 🎉 Merged PR [#5](https://github.com/lovc21/NeuroSpeed/pull/5) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 5. 💪 Opened PR [#5](https://github.com/lovc21/NeuroSpeed/pull/5) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
