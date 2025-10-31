@@ -86,9 +86,9 @@
   <p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/lovc21/cv/issues/2) in [lovc21/cv](https://github.com/lovc21/cv)
-2. 🗣 Commented on [#2](https://github.com/lovc21/cv/issues/2#issuecomment-3474986926) in [lovc21/cv](https://github.com/lovc21/cv)
-3. 💪 Opened PR [#6](https://github.com/lovc21/NeuroSpeed/pull/6) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+1. 🗣 Commented on [#2](https://github.com/lovc21/cv/issues/2#issuecomment-3475076274) in [lovc21/cv](https://github.com/lovc21/cv)
+2. 🔒 Closed issue [#2](https://github.com/lovc21/cv/issues/2) in [lovc21/cv](https://github.com/lovc21/cv)
+3. 🗣 Commented on [#2](https://github.com/lovc21/cv/issues/2#issuecomment-3474986926) in [lovc21/cv](https://github.com/lovc21/cv)
 4. 🎉 Merged PR [#5](https://github.com/lovc21/NeuroSpeed/pull/5) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 5. 💪 Opened PR [#5](https://github.com/lovc21/NeuroSpeed/pull/5) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 6. 🎉 Merged PR [#3](https://github.com/lovc21/NeuroSpeed/pull/3) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
