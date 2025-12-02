@@ -86,9 +86,9 @@
   <p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](undefined) in [flare-foundation/ftso-v2-example-value-provider](https://github.com/flare-foundation/ftso-v2-example-value-provider)
-2. ❌ Closed PR [#9](undefined) in [flare-foundation/ftso-v2-example-value-provider](https://github.com/flare-foundation/ftso-v2-example-value-provider)
-3. 🗣 Commented on [#2](https://github.com/lovc21/cv/issues/2#issuecomment-3475076274) in [lovc21/cv](https://github.com/lovc21/cv)
+1. 🗣 Commented on [#5](https://github.com/lovc21/cv/pull/5#issuecomment-3601359457) in [lovc21/cv](https://github.com/lovc21/cv)
+2. ❌ Closed PR [#8](undefined) in [flare-foundation/ftso-v2-example-value-provider](https://github.com/flare-foundation/ftso-v2-example-value-provider)
+3. ❌ Closed PR [#9](undefined) in [flare-foundation/ftso-v2-example-value-provider](https://github.com/flare-foundation/ftso-v2-example-value-provider)
 4. 🔒 Closed issue [#2](https://github.com/lovc21/cv/issues/2) in [lovc21/cv](https://github.com/lovc21/cv)
 5. 🗣 Commented on [#2](https://github.com/lovc21/cv/issues/2#issuecomment-3474986926) in [lovc21/cv](https://github.com/lovc21/cv)
 6. 🎉 Merged PR [#3](https://github.com/lovc21/NeuroSpeed/pull/3) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
