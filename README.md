@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img
     src="https://cdna.artstation.com/p/assets/images/images/069/324/424/original/k-s-o-m-u-art-cashmoneygojirav1c.gif?1699882361"
@@ -12,10 +11,6 @@
     src="https://komarev.com/ghpvc/?username=lovc21&label=Profile%20views&color=0e75b6&style=flat"
     alt="Profile views"
   />
-  <img
-    src="https://dcbadge.vercel.app/api/shield/213393526707322880?style=plastic"
-    alt="Discord badge"
-  />
 </div>
 
 <div align="center">
@@ -26,10 +21,10 @@
       alt="Linux"
     />
   </a>
-  <a href="https://fedoraproject.org/">
+  <a href="https://nixos.org/">
     <img
-      src="https://img.shields.io/badge/Distro-Fedora?style=flat&logo=fedora&logoColor=white&label=Fedora&color=3c6eb4"
-      alt="Fedora"
+      src="https://img.shields.io/badge/Distro-NixOS?style=flat&logo=nixos&logoColor=white&label=NixOS&color=5277C3"
+      alt="Nixos"
     />
   </a>
   <a href="https://www.linkedin.com/in/jakob-dekleva1999/">
@@ -47,6 +42,7 @@
 </div>
 
 ---
+
 <h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=32&duration=2000&pause=1000&color=1C13F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=👋+Hello,+I%27m+Jakob!;🎉+Welcome+to+my+GitHub;💻+Building+cool+software;📝+I+use+Neovim+btw"
@@ -62,6 +58,7 @@
 </div>
 
 ---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -70,6 +67,7 @@
 </p>
 
 ---
+
 <h3 align="left">Spotify:</h3>
 
 <p align="center">
@@ -82,10 +80,13 @@
 </p>
 
 ---
+
 <b>⚡What I'm up to</b>
+
   <p>
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#5](https://github.com/lovc21/cv/pull/5#issuecomment-3601359457) in [lovc21/cv](https://github.com/lovc21/cv)
 2. ❌ Closed PR [#8](undefined) in [flare-foundation/ftso-v2-example-value-provider](https://github.com/flare-foundation/ftso-v2-example-value-provider)
 3. ❌ Closed PR [#9](undefined) in [flare-foundation/ftso-v2-example-value-provider](https://github.com/flare-foundation/ftso-v2-example-value-provider)
@@ -93,71 +94,73 @@
 5. 🗣 Commented on [#2](https://github.com/lovc21/cv/issues/2#issuecomment-3474986926) in [lovc21/cv](https://github.com/lovc21/cv)
 6. 🎉 Merged PR [#3](https://github.com/lovc21/NeuroSpeed/pull/3) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 7. 🎉 Merged PR [#2](https://github.com/lovc21/NeuroSpeed/pull/2) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
-<!--END_SECTION:activity-->
-  </p>
+   <!--END_SECTION:activity-->
+     </p>
 
 ---
+
 <details>
   <summary><b>About me 🙋‍♂️</b></summary>
 
   <h3 align="left">About me:</h3>
 
-  ```yaml
-  name: Jakob Dekleva
-  located: Ljubljana, Slovenia
-  education:
-  - degree: "Master’s Degree in Computer and Information Science"
-      institution: "University of Ljubljana, Faculty of Computer and Information Science"
-      years: "2022-2025"
-      city: "Ljubljana"
-  - degree: "Bachelor’s Degree in Electrical Engineering"
-      institution: "University of Ljubljana, Faculty of Electrical Engineering"
-      years: "2018-2022"
-      city: "Ljubljana"
-  past experiences:
-  - ["Site Reliability Engineer", "Kubernetes optimization, multi-region deployment, CI/CD, security", "DevRev", "Ljubljana, Slovenia", "Dec 2023 - Feb 2025"]
-  - ["Software Engineer", "CERN OpenLab, Prometheus, performance testing", "Comtrade 360", "Ljubljana, Slovenia", "Jul 2022 - Jul 2023"]
-  - ["Network Engineer and Systems Administrator", "Mellanox switch configuration via SDN and refurbishment of legacy infrastructure", "ARNES", "Ljubljana, Slovenia", "Mar 2021 - Oct 2021"]
-  fields_of_interests:
-  - "DevOps"
-  - "Backend Development"
-  - "System Administration"
-  - "Security"
-  - "Chess programming"
-  technical_background:
-    programming_languages:
-    - "Python"
-    - "Go"
-    - "Bash"
-    - "Terraform"
-    - "Julia"
-    - "Zig"
-    databases:
-    - "Redis"
-    - "Postgres"
-    - "MongoDB"
-    tools:
-    - "AWS"
-    - "GCP"
-    - "Kubernetes"
-    - "Docker"
-    - "GitHub Actions"
-    - "CircleCI"
-    - "Jenkins"
-    - "ArgoCD"
-    - "Linux"
-    - "Nvim"
-    - "Prometheus"
-    - "Grafana"
-    - "Datadog"
-  currently_learning: [Zig,Chess programming,homelab stuff]
-  hobbies: [backpacking,3d printing,running,gym]
+```yaml
+name: Jakob Dekleva
+located: Ljubljana, Slovenia
+education:
+- degree: "Master’s Degree in Computer and Information Science"
+    institution: "University of Ljubljana, Faculty of Computer and Information Science"
+    years: "2022-2025"
+    city: "Ljubljana"
+- degree: "Bachelor’s Degree in Electrical Engineering"
+    institution: "University of Ljubljana, Faculty of Electrical Engineering"
+    years: "2018-2022"
+    city: "Ljubljana"
+past experiences:
+- ["Site Reliability Engineer", "Kubernetes optimization, multi-region deployment, CI/CD, security", "DevRev", "Ljubljana, Slovenia", "Dec 2023 - Feb 2025"]
+- ["Software Engineer", "CERN OpenLab, Prometheus, performance testing", "Comtrade 360", "Ljubljana, Slovenia", "Jul 2022 - Jul 2023"]
+- ["Network Engineer and Systems Administrator", "Mellanox switch configuration via SDN and refurbishment of legacy infrastructure", "ARNES", "Ljubljana, Slovenia", "Mar 2021 - Oct 2021"]
+fields_of_interests:
+- "DevOps"
+- "Backend Development"
+- "System Administration"
+- "Security"
+- "Chess programming"
+technical_background:
+  programming_languages:
+  - "Python"
+  - "Go"
+  - "Bash"
+  - "Terraform"
+  - "Julia"
+  - "Zig"
+  databases:
+  - "Redis"
+  - "Postgres"
+  - "MongoDB"
+  tools:
+  - "AWS"
+  - "GCP"
+  - "Kubernetes"
+  - "Docker"
+  - "GitHub Actions"
+  - "CircleCI"
+  - "Jenkins"
+  - "ArgoCD"
+  - "Linux"
+  - "Nvim"
+  - "Prometheus"
+  - "Grafana"
+  - "Datadog"
+currently_learning: [Zig,Chess programming,homelab stuff]
+hobbies: [backpacking,3d printing,running,gym]
 
-  ```
+```
 
 </details>
 
 ---
+
 <details>
   <summary><b> My stats and metrics 📊 </b></summary>
 <h3 align="left">My stats:</h3>
@@ -170,6 +173,7 @@
 </details>
 
 ---
+
 <h3 align="left">Memes:</h3>
 <p align="center">
 <img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>
