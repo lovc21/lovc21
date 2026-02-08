@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img
     src="https://cdna.artstation.com/p/assets/images/images/069/324/424/original/k-s-o-m-u-art-cashmoneygojirav1c.gif?1699882361"
@@ -107,23 +106,41 @@
   located: Ljubljana, Slovenia
   education:
   - degree: "Master’s Degree in Computer and Information Science"
-      institution: "University of Ljubljana, Faculty of Computer and Information Science"
-      years: "2022-2025"
-      city: "Ljubljana"
+    institution: "University of Ljubljana, Faculty of Computer and Information Science"
+    years: "2022-2025"
+    city: "Ljubljana"
   - degree: "Bachelor’s Degree in Electrical Engineering"
-      institution: "University of Ljubljana, Faculty of Electrical Engineering"
-      years: "2018-2022"
-      city: "Ljubljana"
+    institution: "University of Ljubljana, Faculty of Electrical Engineering"
+    years: "2018-2022"
+    city: "Ljubljana"
   past experiences:
-  - ["Site Reliability Engineer", "Kubernetes optimization, multi-region deployment, CI/CD, security", "DevRev", "Ljubljana, Slovenia", "Dec 2023 - Feb 2025"]
-  - ["Software Engineer", "CERN OpenLab, Prometheus, performance testing", "Comtrade 360", "Ljubljana, Slovenia", "Jul 2022 - Jul 2023"]
-  - ["Network Engineer and Systems Administrator", "Mellanox switch configuration via SDN and refurbishment of legacy infrastructure", "ARNES", "Ljubljana, Slovenia", "Mar 2021 - Oct 2021"]
+  - "Flare Networks":
+      role: "DevOps/SRE"
+      description: "Introduced distroless images, developed multi-cloud backup systems with Python/Terraform, created secure golden images via Packer, and implemented GitLab CI components for streamlined deployment."     
+      location: "Remote"
+      years: "May 2025 - Present"
+  - "DevRev":
+      role: "Site Reliability Engineer"
+      description: "Kubernetes optimization, multi-region deployment, CI/CD, security"
+      location: "Ljubljana, Slovenia"
+      years: "Dec 2023 - Feb 2025"
+  - "Comtrade 360":
+      role: "Software Engineer"
+      description: "CERN OpenLab, Prometheus, performance testing"
+      location: "Ljubljana, Slovenia"
+      years: "Jul 2022 - Jul 2023"
+  - "ARNES":
+      role: "Network Engineer and Systems Administrator"
+      description: "Mellanox switch configuration via SDN and refurbishment of legacy infrastructure"
+      location: "Ljubljana, Slovenia"
+      years: "Mar 2021 - Oct 2021"
   fields_of_interests:
   - "DevOps"
-  - "Backend Development"
-  - "System Administration"
+  - "Cloud Computing"
+  - "Linux"
   - "Security"
   - "Chess programming"
+  - "Open Source"
   technical_background:
     programming_languages:
     - "Python"
@@ -142,6 +159,7 @@
     - "Kubernetes"
     - "Docker"
     - "GitHub Actions"
+    - "GitLab CI"
     - "CircleCI"
     - "Jenkins"
     - "ArgoCD"
