@@ -87,9 +87,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#7](https://github.com/lovc21/NeuroSpeed/pull/7) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
-2. 🎉 Merged PR [#6](https://github.com/lovc21/NeuroSpeed/pull/6) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
-3. ❌ Closed PR [#9](undefined) in [flare-foundation/ftso-v2-example-value-provider](https://github.com/flare-foundation/ftso-v2-example-value-provider)
+1. 🎉 Merged PR [#7](https://github.com/lovc21/NeuroSpeed/pull/7) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+2. 💪 Opened PR [#7](https://github.com/lovc21/NeuroSpeed/pull/7) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+3. 🎉 Merged PR [#6](https://github.com/lovc21/NeuroSpeed/pull/6) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 4. 🔒 Closed issue [#2](https://github.com/lovc21/cv/issues/2) in [lovc21/cv](https://github.com/lovc21/cv)
 5. 🗣 Commented on [#2](https://github.com/lovc21/cv/issues/2#issuecomment-3474986926) in [lovc21/cv](https://github.com/lovc21/cv)
 6. 🎉 Merged PR [#3](https://github.com/lovc21/NeuroSpeed/pull/3) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
