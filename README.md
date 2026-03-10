@@ -87,11 +87,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Release v1](https://github.com/lovc21/publish-npm-provenance/releases/tag/v1) in [lovc21/publish-npm-provenance](https://github.com/lovc21/publish-npm-provenance)
-2. 🎉 Merged PR [#7](https://github.com/lovc21/NeuroSpeed/pull/7) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
-3. 💪 Opened PR [#7](https://github.com/lovc21/NeuroSpeed/pull/7) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
-4. 🎉 Merged PR [#6](https://github.com/lovc21/NeuroSpeed/pull/6) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
-5. 🗣 Commented on [#2](https://github.com/lovc21/cv/issues/2#issuecomment-3474986926) in [lovc21/cv](https://github.com/lovc21/cv)
+1. 🚀 Published release [Release v1.1](https://github.com/lovc21/publish-npm-provenance/releases/tag/v1.1) in [lovc21/publish-npm-provenance](https://github.com/lovc21/publish-npm-provenance)
+2. 🚀 Published release [Release v1](https://github.com/lovc21/publish-npm-provenance/releases/tag/v1) in [lovc21/publish-npm-provenance](https://github.com/lovc21/publish-npm-provenance)
+3. 🎉 Merged PR [#7](https://github.com/lovc21/NeuroSpeed/pull/7) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+4. 💪 Opened PR [#7](https://github.com/lovc21/NeuroSpeed/pull/7) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+5. 🎉 Merged PR [#6](https://github.com/lovc21/NeuroSpeed/pull/6) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 6. 🎉 Merged PR [#3](https://github.com/lovc21/NeuroSpeed/pull/3) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 7. 🎉 Merged PR [#2](https://github.com/lovc21/NeuroSpeed/pull/2) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
    <!--END_SECTION:activity-->
