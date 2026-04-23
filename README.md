@@ -87,9 +87,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Release v1.1](https://github.com/lovc21/publish-npm-provenance/releases/tag/v1.1) in [lovc21/publish-npm-provenance](https://github.com/lovc21/publish-npm-provenance)
-2. 🚀 Published release [Release v1](https://github.com/lovc21/publish-npm-provenance/releases/tag/v1) in [lovc21/publish-npm-provenance](https://github.com/lovc21/publish-npm-provenance)
-3. 🎉 Merged PR [#7](https://github.com/lovc21/NeuroSpeed/pull/7) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
+1. 💪 Opened PR [#2](https://github.com/lovc21/go-flare/pull/2) in [lovc21/go-flare](https://github.com/lovc21/go-flare)
+2. ❌ Closed PR [#73](https://github.com/flare-foundation/go-flare/pull/73) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
+3. 💪 Opened PR [#73](https://github.com/flare-foundation/go-flare/pull/73) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
 4. 💪 Opened PR [#7](https://github.com/lovc21/NeuroSpeed/pull/7) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 5. 🎉 Merged PR [#6](https://github.com/lovc21/NeuroSpeed/pull/6) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
 6. 🎉 Merged PR [#3](https://github.com/lovc21/NeuroSpeed/pull/3) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
