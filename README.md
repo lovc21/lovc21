@@ -87,7 +87,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#74](https://github.com/flare-foundation/go-flare/pull/74) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
+1. 🗣 Commented on [#33864](https://github.com/oven-sh/bun/pull/33864#issuecomment-4959376509) in [oven-sh/bun](https://github.com/oven-sh/bun)
 2. 🎉 Merged PR [#2](https://github.com/lovc21/go-flare/pull/2) in [lovc21/go-flare](https://github.com/lovc21/go-flare)
 3. 💪 Opened PR [#2](https://github.com/lovc21/go-flare/pull/2) in [lovc21/go-flare](https://github.com/lovc21/go-flare)
 4. ❌ Closed PR [#73](https://github.com/flare-foundation/go-flare/pull/73) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
