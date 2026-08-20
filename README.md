@@ -70,14 +70,11 @@
 
 <h3 align="left">Spotify:</h3>
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22o4dahf3bscqdol5ora2socq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=22o4dahf3bscqdol5ora2socq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22o4dahf3bscqdol5ora2socq" alt="Spotify Recently Played" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22o4dahf3bscqdol5ora2socq&amp;theme=dark&amp;unique=1&amp;duration=1&amp;album=1&amp;username=off" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22o4dahf3bscqdol5ora2socq&amp;theme=light&amp;unique=1&amp;duration=1&amp;album=1&amp;username=off" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22o4dahf3bscqdol5ora2socq&amp;theme=dark&amp;unique=1&amp;duration=1&amp;album=1&amp;username=off" alt="Spotify recently played" width="400" />
+</picture>
 
 ---
 
