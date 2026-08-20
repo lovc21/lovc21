@@ -1,4 +1,4 @@
-<div id="header" align="center">
+a<div id="header" align="center">
   <img
     src="https://cdna.artstation.com/p/assets/images/images/069/324/424/original/k-s-o-m-u-art-cashmoneygojirav1c.gif?1699882361"
     width="500"
@@ -70,11 +70,13 @@
 
 <h3 align="left">Spotify:</h3>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22o4dahf3bscqdol5ora2socq&amp;theme=dark&amp;unique=1&amp;duration=1&amp;album=1&amp;username=off" />
   <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22o4dahf3bscqdol5ora2socq&amp;theme=light&amp;unique=1&amp;duration=1&amp;album=1&amp;username=off" />
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22o4dahf3bscqdol5ora2socq&amp;theme=dark&amp;unique=1&amp;duration=1&amp;album=1&amp;username=off" alt="Spotify recently played" width="400" />
 </picture>
+</div>
 
 ---
 
