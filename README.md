@@ -1,4 +1,4 @@
-a<div id="header" align="center">
+<div id="header" align="center">
   <img
     src="https://cdna.artstation.com/p/assets/images/images/069/324/424/original/k-s-o-m-u-art-cashmoneygojirav1c.gif?1699882361"
     width="500"
