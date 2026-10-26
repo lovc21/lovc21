@@ -86,7 +86,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/lovc21/dotfiles-bine/pull/5#issuecomment-5342636215) in [lovc21/dotfiles-bine](https://github.com/lovc21/dotfiles-bine)
+1. ❌ Closed PR [#74](https://github.com/flare-foundation/go-flare/pull/74) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
 2. 🎉 Merged PR [#2](https://github.com/lovc21/go-flare/pull/2) in [lovc21/go-flare](https://github.com/lovc21/go-flare)
 3. 💪 Opened PR [#2](https://github.com/lovc21/go-flare/pull/2) in [lovc21/go-flare](https://github.com/lovc21/go-flare)
 4. ❌ Closed PR [#73](https://github.com/flare-foundation/go-flare/pull/73) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
