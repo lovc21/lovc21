@@ -86,9 +86,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#74](https://github.com/flare-foundation/go-flare/pull/74) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
-2. 🎉 Merged PR [#2](https://github.com/lovc21/go-flare/pull/2) in [lovc21/go-flare](https://github.com/lovc21/go-flare)
-3. 💪 Opened PR [#2](https://github.com/lovc21/go-flare/pull/2) in [lovc21/go-flare](https://github.com/lovc21/go-flare)
+1. ❌ Closed PR [#81](https://github.com/flare-foundation/go-flare/pull/81) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
+2. 💪 Opened PR [#81](https://github.com/flare-foundation/go-flare/pull/81) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
+3. ❌ Closed PR [#74](https://github.com/flare-foundation/go-flare/pull/74) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
 4. ❌ Closed PR [#73](https://github.com/flare-foundation/go-flare/pull/73) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
 5. 💪 Opened PR [#73](https://github.com/flare-foundation/go-flare/pull/73) in [flare-foundation/go-flare](https://github.com/flare-foundation/go-flare)
 6. 🎉 Merged PR [#3](https://github.com/lovc21/NeuroSpeed/pull/3) in [lovc21/NeuroSpeed](https://github.com/lovc21/NeuroSpeed)
